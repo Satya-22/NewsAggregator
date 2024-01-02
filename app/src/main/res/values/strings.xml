@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsAggregator</string>
+    <string name="drawer_open">Opened the drawer</string>
+    <string name="drawer_close">Closed the drawer</string>
+</resources>
